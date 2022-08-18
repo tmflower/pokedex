@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  color: rgb(208, 206, 206)
+}
+
+.Pokecard {
+  display: inline-grid;
+  margin: 30px;
+  width: 240px;
+  background-color: rgb(208, 206, 206);
+  border-radius: 10px;
+}
+
+.Pokecard img {
+  margin: auto;
+}
+
+.Pokecard h5 {
+  font-size: 1.5rem;
+  color: blue;
+}
