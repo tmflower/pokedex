@@ -1,5 +1,5 @@
 
-const pokemons = [
+const pokecards = [
     {id: 4, name: 'Charmander', type: 'fire', base_experience: 62, img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png'},
     {id: 7, name: 'Squirtle', type: 'water', base_experience: 63, img: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png`},
     {id: 11, name: 'Metapod', type: 'bug', base_experience: 72, img: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png`},
@@ -10,4 +10,4 @@ const pokemons = [
     {id: 133, name: 'Eevee', type: 'normal', base_experience: 65, img:`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png`}
   ]
 
-export default pokemons;
+export default pokecards;
